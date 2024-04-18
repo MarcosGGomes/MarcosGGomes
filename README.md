@@ -5,7 +5,7 @@
 
  - Sistemas de Informação 🕮
  - Java 💚
- - Backend <3
+ - Backend 🖤
 ---
  💥Linguagens 💻 
 
