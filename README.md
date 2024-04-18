@@ -3,9 +3,9 @@
 ---
 ![MarcosGGomes GitHub stats](https://github-readme-stats.vercel.app/api?username=MarcosGGomes&show_icons=true&theme=dark)
 
- Sistemas de Informação 🕮
- Java 💚
- Backend <3
+ - Sistemas de Informação 🕮
+ - Java 💚
+ - Backend <3
 
  💥Linguagens 💻 
 
